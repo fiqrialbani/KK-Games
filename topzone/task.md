@@ -1,0 +1,5 @@
+- [x] Create `ContactModal.jsx` component
+- [x] Create `TermsModal.jsx` component
+- [x] Update `Footer.jsx` to handle modal states and add Instagram link
+- [x] Update `Register/index.jsx` to render `TermsModal` and link to it
+- [x] Verify everything works correctly
